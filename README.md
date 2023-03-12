@@ -8,13 +8,13 @@ Php non framework CRUD backend
 admin - ```admin@admin.admin``` and ```aminpassword```  
 user - ```andrew.rennit@gmail.com``` and ```123456```
 ## Additional info
-This in a non framework php CRUD api. 
-Implemented: 
+This in a non framework php CRUD api <br>
+<b>Implemented: </b>
 * Task, Company, Person and Collaborators models
 * CRUD operations for each model in database
 * Admin login by hardcode credentials
-* User login by email and pass from database
-Not implemented:
+* User login by email and pass from database <br>   
+<b>Not implemented</b>:<br>   
 * Necessary data validation
 * Overall errors catching
 * Admin and user controllers access check
